@@ -1,4 +1,4 @@
 #pragma once
 
-int usm(int n);
+int sum(int n);
 
